@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mubashirkappan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning BCA final year
+- 🌱 I’m completed  BCA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
